@@ -8,7 +8,7 @@
 ---
 
 ### Sobre mí
-Soy estudiante de **Ingeniería en Sistemas Computacionales**. Me gusta aprender construyendo, así que voy armando proyectos propios.
+Soy estudiante de **Ingeniería en Sistemas Computacionales**.
 
 ### Tecnologías
 <p>
