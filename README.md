@@ -2,7 +2,7 @@
 <p align="center"><code>Richardx_o</code></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=CF6679&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales;Me+gusta+crear+proyectos;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=CF6679&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenieria+en+Sistemas+Computacionales;Me+gusta+crear+proyectos;Aprendiendo+algo+nuevo+cada+dia" alt="Typing SVG" />
 </p>
 ---
 
